@@ -1,18 +1,17 @@
-## Getting Started
+## Projeto Pessoal: Jogo de Advinhação
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bem vindo ao meu projeto pessoal!!!!!
 
-## Folder Structure
+Meu nome é Elisson Luiz S. da Silva. Sou um desenvolvedor recém formado (jul/2024) no curso Superior Tecnólogo em desenvolvimento Mobile, com foco em web, cloud, mobile e IoT. (Contato: https://www.linkedin.com/in/elisson-luiz-santos-da-silva-a74443b7).
+
+Estou construindo esse pequeno jogo com a simples finalidade de evoluí-lo com o passar do tempo.
+
+## Estrutura
 
 The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `src`: Pasta que mantém os código.
+- `lib`: Pasta que mantém as dependencies
+- `assets`: Pasta que mantém imagens, sons e outros recursos de mídia
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Observação: a pasta `bin` é para uso local. È nessa pasta que ficarão os executáveis.
