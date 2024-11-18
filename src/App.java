@@ -1,7 +1,15 @@
 import java.util.Scanner;
-import
+import java.util.Random;
+import comunicados.Apresentacao; 
+// TODO: Criar a classe de menu
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        Apresentacao apresentacao = new Apresentacao();
+
+
+
+
+        apresentacao.abertura();
+
     }
 }
